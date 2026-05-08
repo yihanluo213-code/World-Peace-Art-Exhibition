@@ -447,7 +447,16 @@ p {
 
 .form-cta-container {
     text-align: center;
-    padding: 2rem 0;
+    padding: 1rem 0;
+}
+
+.compact-form {
+    padding: 2rem;
+    max-width: 700px;
+}
+
+#upload.section {
+    padding: 3rem 0;
 }
 
 .form-note {

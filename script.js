@@ -73,9 +73,7 @@ const translations = {
         'time5': 'Gastown Exhibition',
 
         'form-title': 'Submit Your Artwork (Digital Registration)',
-        'form-sub': 'Please fill out the form below to submit your digital artwork for review.',
-        'form-btn': 'Open Registration Form (Jotform)',
-        'form-note': 'The registration form will open in a new window to ensure all features work correctly.'
+        'form-btn': 'Open Registration Form (Jotform)'
     },
     zh: {
         'nav-logo': '世界和平艺术展 2026',
@@ -151,9 +149,7 @@ const translations = {
         'time5': 'Gastown 展览',
 
         'form-title': '提交作品（电子版登记）',
-        'form-sub': '请填写以下表格，提交您的数字艺术作品进行评审。',
-        'form-btn': '打开报名表 (Jotform)',
-        'form-note': '报名表将在新窗口中打开，以确保所有功能正常运行。'
+        'form-btn': '打开报名表 (Jotform)'
     }
 };
 
